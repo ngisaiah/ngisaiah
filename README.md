@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isaiah</h1>
-<h3 align="center">A passionate frontend developer from North Andover, MA</h3>
+<h3 align="center">A driven full-stack developer from North Andover, MA</h3>
 
 - 🔭 I’m currently working on [Cryptocurrency API](https://github.com/ngisaiah/cryptocurrency_api)
 
