@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 🤝 I’m looking for help with **pulling real-time data**
+- 🤝 I’m looking for help with **pulling real-time data for APIs**
 
 - 👨‍💻 All of my projects are available at [https://isaiahng.netlify.app/](https://isaiahng.netlify.app/)
 
