@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="gitBanner.png" alt="Banner"/>
+</div>
 <h1 align="center">Hi 👋, I'm Isaiah</h1>
 <h3 align="center">A driven Software Engineer from North Andover, MA</h3>
 
