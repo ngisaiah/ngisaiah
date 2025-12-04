@@ -24,6 +24,46 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AirsoftSmugglers</h3>
+        <br />
+            <a target="_blank" href="https://github.com/ngisaiah/ngisaiah">
+                <img src="gif.gif" width="100%" alt="AirsoftSmugglers App"/>
+            </a>
+        <br />
+        <p align="center">
+           
+            <a href="https://www.airsoftsmugglers.com/" target="_blank">
+                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            </a>
+        </p>
+        <p><strong>Javascript, CSS</strong> - A full font-end revamp for AirsoftSmugglers: an airsoft marketplace with over 7,000 Users!</p>
+    </td>
+    <!-- <td width="50%" valign="top">
+      <h3 align="center">Star Wars: CRUD</h3>
+        <br />
+      <a target="_blank" href="https://isaiahng.netlify.app/">
+            <img src="star trek.gif" width="100%"  alt="Star Wars App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://isaiahng.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://isaiahng.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Node, Express, Vercel, MongoDB</strong> - A full-stack application which allows users to store their favorite Star Wars quotes. Users can then delete any Darth Vader quotes or replace (update) any Yoda quotes!</p>
+    </td> -->
+  </tr>
+</table>
+
 
 <!--
 **ngisaiah/ngisaiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
