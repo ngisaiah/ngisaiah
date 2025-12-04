@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **pulling real-time data for APIs**
 
-- 👨‍💻 All of my projects are available at [https://isaiahng.netlify.app/](https://isaiahng.netlify.app/)
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **ngisaiah17@gmail.com**
