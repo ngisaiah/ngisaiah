@@ -44,14 +44,14 @@
   </p>
       <p><strong>Javascript, CSS</strong> - A full font-end revamp for AirsoftSmugglers: an airsoft marketplace with over 7,000 Users!</p>
   </td>
-    <!-- <td width="50%" valign="top">
-      <h3 align="center">Star Wars: CRUD</h3>
-        <br />
+  <td width="50%" valign="top">
+      <h3 align="center">Isaiah Ng</h3>
+  <br />
       <a target="_blank" href="https://isaiahng.netlify.app/">
-            <img src="star trek.gif" width="100%"  alt="Star Wars App"/>
-        </a>
-        <br />
-        <p align="center">
+            <img src="ng.gif" width="100%"  alt="Isaiah Ng App"/>
+      </a>
+  <br />
+  <p align="center">
           
   <a href="https://isaiahng.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
@@ -59,9 +59,9 @@
   <a href="https://isaiahng.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
-      </p>
-        <p><strong>Javascript, Node, Express, Vercel, MongoDB</strong> - A full-stack application which allows users to store their favorite Star Wars quotes. Users can then delete any Darth Vader quotes or replace (update) any Yoda quotes!</p>
-    </td> -->
+  </p>
+  <p><strong>HTML, CSS, Javascript, Node, Express, Netlify</strong> - A full-stack application which provides the best points of contact. A simple server was added in order to serve a seperate page that contains portfolio projects!</p>
+    </td>
   </tr>
 </table>
 
