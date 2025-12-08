@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 🤝 I’m looking for help with **pulling real-time data for APIs**
+- 🤝 I’m looking for help with **pulling real-time data from APIs**
 
 - 💬 Ask me about **Financial Markets**
 
