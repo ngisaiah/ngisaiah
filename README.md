@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **pulling real-time data for APIs**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Financial Markets**
 
 - 📫 How to reach me **ngisaiah17@gmail.com**
 
