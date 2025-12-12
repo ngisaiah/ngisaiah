@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Cryptocurrency API](https://github.com/ngisaiah/cryptocurrency_api)
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **pulling real-time data from APIs**
+- 🤝 I’m looking for help with **creating trading algorithms**
 
 - 💬 Ask me about **Financial Markets**
 
