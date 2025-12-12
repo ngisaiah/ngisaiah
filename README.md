@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Isaiah</h1>
 <h3 align="center">A driven Software Engineer from North Andover, MA</h3>
 
-- 🔭 I’m currently working on [Cryptocurrency API](https://github.com/ngisaiah/cryptocurrency_api)
+- 🔭 I’m currently working on [QuickTick](https://github.com/ngisaiah/quick_tick)
 
 - 🌱 I’m currently learning **React**
 
