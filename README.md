@@ -41,7 +41,7 @@
   <a href="https://github.com/ngisaiah/quick_tick" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://github.com/ngisaiah/quick_tick" target="_blank">
+  <a href="https://quick-tick-neon.vercel.app/dashboard" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
