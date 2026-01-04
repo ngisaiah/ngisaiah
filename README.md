@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **creating trading algorithms**
 
-- 💬 Ask me about **Financial Markets**
+- 💬 Ask me about **Express**
 
 - 📫 How to reach me **ngisaiah17@gmail.com**
 
