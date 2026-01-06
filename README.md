@@ -33,7 +33,7 @@
       <h3 align="center">QuickTick</h3>
         <br />
             <a target="_blank" href="https://github.com/ngisaiah/ngisaiah/quick_tick">
-                <img src="quicktick.gif" width="100%" alt="QuickTick App"/>
+                <img src="quickTickDemo.gif" width="100%" alt="QuickTick App"/>
             </a>
         <br />
         <p align="center">
