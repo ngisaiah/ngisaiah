@@ -66,22 +66,22 @@
       <p><strong>Javascript, CSS, MySQL</strong> - A full font-end revamp for AirsoftSmugglers: an airsoft marketplace with over 7,000 Users! I was tasked with retrieving a copy of their MySQL database and filtering inactive users so we could schedule a time to delete those accounts.</p>
   </td>
   <td width="50%" valign="top">
-      <h3 align="center">Isaiah Ng</h3>
+      <h3 align="center">Sky Salon</h3>
   <br />
-      <a target="_blank" href="https://isaiahng.netlify.app/">
-            <img src="ng.gif" width="100%"  alt="Isaiah Ng App"/>
+      <a target="_blank" href="https://skysalon.netlify.app/">
+            <img src="skySalon.gif" width="100%"  alt="Sky Salon Gif"/>
       </a>
   <br />
   <p align="center">
           
-  <a href="https://isaiahng.netlify.app/" target="_blank">
+  <a href="https://github.com/ngisaiah" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://isaiahng.netlify.app/" target="_blank">
+  <a href="https://skysalon.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
-  <p><strong>HTML, CSS, Javascript, Node, Express, Netlify</strong> - A full-stack application which provides the best points of contact. A simple server was added in order to serve a seperate page that contains portfolio projects!</p>
+  <p><strong>HTML, CSS, Javascript, Netlify</strong> - A modern, responsive website built for a contemporary hair salon, focused on clean design, intuitive navigation, and showcasing services with a sleek, user-friendly experience.</p>
     </td>
   </tr>
 </table>
