@@ -29,7 +29,26 @@
 <table bordercolor="#66b2b2" width='100%'>
 
   <tr>
-    <td colspan="2" valign="top">
+        <td colspan="1" valign="top">
+      <h3 align="center">Studio2Go</h3>
+        <br />
+            <a target="_blank" href="https://github.com/ngisaiah/ngisaiah/quick_tick">
+                <img src="studio2go.gif" width="100%" alt="Studio2Go App"/>
+            </a>
+        <br />
+        <p align="center">
+           
+  <a href="https://github.com/ngisaiah/studio2go_React" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/ngisaiah/studio2go_React" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  </p>
+      <p><strong>Javascript, React, JSON-Server, TailWindCSS</strong> - A platform that connects artists with local sound engineers, allowing musicians to book recording sessions, and have engineers travel to them to capture high-quality music,or creative projects. This project uses JSON-server for a mock backend..</p>
+  </td>
+    
+  <td colspan="1" valign="top">
       <h3 align="center">QuickTick</h3>
         <br />
             <a target="_blank" href="https://github.com/ngisaiah/ngisaiah/quick_tick">
@@ -41,7 +60,7 @@
   <a href="https://github.com/ngisaiah/quick_tick" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://quick-tick-neon.vercel.app/dashboard" target="_blank">
+  <a href="https://quick-tick-neon.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
