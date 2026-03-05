@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [V6X](https://github.com/ngisaiah/v6x)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Azure**
 
 - 🤝 I’m looking for help with **creating trading algorithms**
 
