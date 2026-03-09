@@ -29,26 +29,45 @@
 <table bordercolor="#66b2b2" width='100%'>
 
   <tr>
-        <td colspan="1" valign="top">
-      <h3 align="center">Studio2Go</h3>
+        <td valign="top">
+      <h3 align="center">SoundGuy</h3>
         <br />
-            <a target="_blank" href="https://github.com/ngisaiah/ngisaiah/quick_tick">
-                <img src="studio2go.gif" width="100%" alt="Studio2Go App"/>
+            <a target="_blank" href="https://github.com/ngisaiah/soundGuy_web">
+                <img src="soundguy-demo.gif" width="100%" alt="SoundGuy Demo"/>
             </a>
         <br />
         <p align="center">
            
-  <a href="https://github.com/ngisaiah/studio2go_React" target="_blank">
+  <a href="https://github.com/ngisaiah/soundGuy_web" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://github.com/ngisaiah/studio2go_React" target="_blank">
+  <a href="https://www.sound-guy.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
-      <p><strong>Javascript, React, JSON-Server, TailWindCSS</strong> - A platform that connects artists with local sound engineers, allowing musicians to book recording sessions, and have engineers travel to them to capture high-quality music,or creative projects. This project uses JSON-server for a mock backend..</p>
+      <p><strong>Python, React, Vite, TailWindCSS</strong> - A voice-controlled Logic Pro X recording assistant with machine learning wake word detection and natural language intent recognition. Engineered real-time audio processing, keyboard shortcut injection, and a custom user interface..</p>
   </td>
-    
-  <td colspan="1" valign="top">
+  <td width="50%" valign="top">
+      <h3 align="center">V6X</h3>
+  <br />
+      <a target="_blank" href="https://github.com/ngisaiah/v6x">
+            <img src="v6x-demo.gif" width="100%"  alt="V6X Demo"/>
+      </a>
+  <br />
+  <p align="center">
+          
+  <a href="https://github.com/ngisaiah/v6x" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://github.com/ngisaiah/v6x" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  </p>
+  <p><strong>React, Typescript, PostgreSQL, Solana</strong> - A pooled-custody crypto investment platform designed for transparency, security, and operational reliability. The system uses a ledger-as-source-of-truth architecture where all balance changes are immutable append-only entries.</p>
+    </td>
+  </tr>
+  <tr>  
+  <td valign="top">
       <h3 align="center">QuickTick</h3>
         <br />
             <a target="_blank" href="https://github.com/ngisaiah/ngisaiah/quick_tick">
@@ -66,42 +85,22 @@
   </p>
       <p><strong>Javascript, CSS, Express, Materialize, Handlebars</strong> - A full-stack application with Google authentication used for tracking cryptocurrencies! Users are able to sign in and add their top coins to their favorites. There is also a "Notes" section used for storing any useful information along with delete functionality.</p>
   </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">AirsoftSmugglers</h3>
-        <br />
-            <a target="_blank" href="https://github.com/ngisaiah/ngisaiah">
-                <img src="gif.gif" width="100%" alt="AirsoftSmugglers App"/>
-            </a>
-        <br />
-        <p align="center">
+
+  <td width="50%" valign="top">
+    <h3 align="center">AirsoftSmugglers</h3>
+      <br />
+          <a target="_blank" href="https://github.com/ngisaiah/ngisaiah">
+              <img src="gif.gif" width="100%" alt="AirsoftSmugglers App"/>
+          </a>
+      <br />
+      <p align="center">
            
   <a href="https://www.airsoftsmugglers.com/" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   </p>
-      <p><strong>Javascript, CSS, MySQL</strong> - A full font-end revamp for AirsoftSmugglers: an airsoft marketplace with over 7,000 Users! I was tasked with retrieving a copy of their MySQL database and filtering inactive users so we could schedule a time to delete those accounts.</p>
+      <p><strong>Javascript, CSS, MySQL</strong> - A full front-end revamp for AirsoftSmugglers: an airsoft marketplace with over 7,000 Users! I was tasked with retrieving a copy of their MySQL database and filtering inactive users so we could schedule a time to delete those accounts.</p>
   </td>
-  <td width="50%" valign="top">
-      <h3 align="center">Sky Salon</h3>
-  <br />
-      <a target="_blank" href="https://skysalon.netlify.app/">
-            <img src="skySalon.gif" width="100%"  alt="Sky Salon Gif"/>
-      </a>
-  <br />
-  <p align="center">
-          
-  <a href="https://github.com/ngisaiah" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://skysalon.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>
-  <p><strong>HTML, CSS, Javascript, Netlify</strong> - A modern, responsive website built for a contemporary hair salon, focused on clean design, intuitive navigation, and showcasing services with a sleek, user-friendly experience.</p>
-    </td>
   </tr>
 </table>
 
