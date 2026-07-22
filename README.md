@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Isaiah</h1>
 <h3 align="center">A driven Software Engineer from Miami, FL</h3>
 
-- 🔭 I’m currently working on [V6X](https://github.com/ngisaiah/v6x)
+- 🔭 I’m currently working on [Hermes-job-outreach-pipeline](https://github.com/ngisaiah/hermes-job-outreach-pipeline)
 
 - 🌱 I’m currently learning **TypeScript**
 
