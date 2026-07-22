@@ -2,23 +2,23 @@
   <img src="gitBanner.png" alt="Banner"/>
 </div>
 <h1 align="center">Hi 👋, I'm Isaiah</h1>
-<h3 align="center">A driven Software Engineer from North Andover, MA</h3>
+<h3 align="center">A driven Software Engineer from Miami, FL</h3>
 
 - 🔭 I’m currently working on [V6X](https://github.com/ngisaiah/v6x)
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **TypeScript**
 
-- 🤝 I’m looking for help with **creating trading algorithms**
+- 🤝 I’m looking for help with **GymJunkiez**
 
 - 💬 Ask me about **Express JS**
 
 - 📫 How to reach me **ngisaiah17@gmail.com**
 
-- ⚡ Fun fact **I spent 3 months backpacking in Europe!**
+- ⚡ Fun fact **I spent 3 months solo backpacking in Europe!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devzay_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devzay_" height="30" width="40" /></a>
+<a href="https://twitter.com/zaymode5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devzay_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/isaiahng11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaiahng11" height="30" width="40" /></a>
 </p>
 
