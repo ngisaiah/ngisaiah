@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Hermes-ScoutX-Skill](https://github.com/ngisaiah/hermes-job-outreach-pipeline)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Agentic Architecture**
 
-- 🤝 I’m looking for help with **GymJunkiez**
+- 🤝 I’m looking for help with **Tattoo Studio Automations**
 
-- 💬 Ask me about **Express JS**
+- 💬 Ask me about **React.js**
 
 - 📫 How to reach me **ngisaiah17@gmail.com**
 
