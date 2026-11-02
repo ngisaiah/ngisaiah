@@ -2,15 +2,11 @@
   <img src="gitBanner.png" alt="Banner"/>
 </div>
 <h1 align="center">Hi 👋, I'm Isaiah</h1>
-<h3 align="center">A driven Software Engineer from Miami, FL</h3>
+<h3 align="center">A Software Engineer and Hustler from Miami, FL</h3>
 
-- 🔭 I’m currently working on [Hermes-ScoutX-Skill](https://github.com/ngisaiah/hermes-job-outreach-pipeline)
+- 🔭 I’m currently working on [TradingWheels](https://tradingwheels.us/)
 
-- 🌱 I’m currently learning **Agentic Architecture**
-
-- 🤝 I’m looking for help with **Tattoo Studio Automations**
-
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **Agents**
 
 - 📫 How to reach me **ngisaiah17@gmail.com**
 
