@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **Agents**
 
-- 📫 How to reach me **ngisaiah17@gmail.com**
-
 - ⚡ Fun fact **I spent 3 months solo backpacking in Europe!**
 
 <h3 align="left">Connect with me:</h3>
